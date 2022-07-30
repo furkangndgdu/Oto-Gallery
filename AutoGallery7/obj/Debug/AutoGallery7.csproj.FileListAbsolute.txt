@@ -1,0 +1,11 @@
+C:\Users\gundo\OneDrive\Masaüstü\AutoGallery7\AutoGallery7\bin\Debug\AutoGallery7.exe.config
+C:\Users\gundo\OneDrive\Masaüstü\AutoGallery7\AutoGallery7\bin\Debug\AutoGallery7.exe
+C:\Users\gundo\OneDrive\Masaüstü\AutoGallery7\AutoGallery7\bin\Debug\AutoGallery7.pdb
+C:\Users\gundo\OneDrive\Masaüstü\AutoGallery7\AutoGallery7\obj\Debug\AutoGallery7.csproj.AssemblyReference.cache
+C:\Users\gundo\OneDrive\Masaüstü\AutoGallery7\AutoGallery7\obj\Debug\AutoGallery7.csproj.SuggestedBindingRedirects.cache
+C:\Users\gundo\OneDrive\Masaüstü\AutoGallery7\AutoGallery7\obj\Debug\AutoGallery7.Form1.resources
+C:\Users\gundo\OneDrive\Masaüstü\AutoGallery7\AutoGallery7\obj\Debug\AutoGallery7.Properties.Resources.resources
+C:\Users\gundo\OneDrive\Masaüstü\AutoGallery7\AutoGallery7\obj\Debug\AutoGallery7.csproj.GenerateResource.cache
+C:\Users\gundo\OneDrive\Masaüstü\AutoGallery7\AutoGallery7\obj\Debug\AutoGallery7.csproj.CoreCompileInputs.cache
+C:\Users\gundo\OneDrive\Masaüstü\AutoGallery7\AutoGallery7\obj\Debug\AutoGallery7.exe
+C:\Users\gundo\OneDrive\Masaüstü\AutoGallery7\AutoGallery7\obj\Debug\AutoGallery7.pdb
